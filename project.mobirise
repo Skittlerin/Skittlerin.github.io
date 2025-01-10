@@ -1447,7 +1447,8 @@
               "flex-direction": "row-reverse"
             },
             ".mbr-description": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_name": "image03",
@@ -1609,6 +1610,9 @@
             },
             ".content-head": {
               "max-width": "800px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
             }
           },
           "_name": "people03",

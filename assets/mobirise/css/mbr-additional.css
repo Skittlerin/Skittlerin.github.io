@@ -1826,6 +1826,7 @@ a {
 }
 .cid-uvPklZamQF .mbr-description {
   color: #ffffff;
+  text-align: left;
 }
 .cid-uvPkeOVljn {
   padding-top: 6rem;
@@ -1930,6 +1931,9 @@ a {
 }
 .cid-utgpW014oa .content-head {
   max-width: 800px;
+}
+.cid-utgpW014oa .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-utgqbfRFiW {
   padding-top: 6rem;
